@@ -9,3 +9,7 @@ console.log("rebase");
 
 console.log("payment");
 console.log("checkout");
+const name="XYZ";
+console.log("name");
+let a=450;
+console.log(a);
