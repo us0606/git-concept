@@ -18,3 +18,5 @@ let c=30,b=40;
 console.log(c+b);
 console.log(c-b);
 console.log("github concept");
+console.log("new clone");
+console.log("git new feature");
