@@ -8,3 +8,4 @@ console.log("bugfix");
 console.log("rebase");
 
 console.log("payment");
+console.log("checkout");
