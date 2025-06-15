@@ -13,3 +13,6 @@ const name="XYZ";
 console.log("name");
 let a=450;
 console.log(a);
+
+let c=30,b=40;
+console.log(c+b);
